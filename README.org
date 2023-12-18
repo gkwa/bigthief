@@ -1,0 +1,14 @@
+* bigthief
+
+** summary
+
+This is a description of project bigthief.
+
+** usage
+
+Example:
+#+begin_example
+make test
+./bigthief --help
+./bigthief --log-level=debug
+#+end_example
